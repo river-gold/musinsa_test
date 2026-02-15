@@ -2,7 +2,7 @@
 
 ## 개발환경
 
-- java 21, springboot 3, H2, redis(Testcontainer 환경)
+- java 21, springboot 3, jpa, querydsl, h2, redis(Testcontainer 환경)
 
 ## 실행방법
 - docker desktop 설치
